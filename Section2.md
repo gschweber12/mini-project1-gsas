@@ -1,2 +1,2 @@
 
-Created by Vincent Driessen, GitFlow is a branching mode for Git. It is popular due to the fact is it well suited for collaboration and scaling the development team.  
+Created by Vincent Driessen, GitFlow is a branching mode for Git. It is popular due to the fact is it well suited for collaboration and scaling the development team. There are many benefits/features of GitFlow and one of the great features is the parallel development. How it works is new developments are built in feature branches, the feature branches are branched off of the develop branch and finished features and fixes are merged bac into the develop branch when they’re ready for release.
