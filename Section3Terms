@@ -6,4 +6,6 @@
 (ex: you can use forks to propose changed related to fixing a bug, rather than logging an issue for a bug you’ve found)
 - Branch - is a parallel version of a repository
 (ex. creating a branch in your project means you’re creating an environment where you can try out new ideas and those changed won’t affect the master branch)
+- Commit - is an individual change to a file 
+(ex. you have to explicitly tell Git, which change you want to include in a commit before running the command)
 
