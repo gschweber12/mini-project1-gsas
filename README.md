@@ -4,7 +4,7 @@ group members: Grant Schweber, Arun Sandhu
 **Index**:  
 **Section 1**: [Section 1](/section1.md)  
 **Section 2**: [Section 2](/Section2.md)  
-**Section 3**: [Section 3](/Section3Terms)
+**Section 3**: [Section 3](/Section3Terms.md)
 
 **Changelog**:  
 **section 1**: Grant  
