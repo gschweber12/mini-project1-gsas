@@ -13,3 +13,4 @@
 (ex. takes all the commits from the pull requests and adds them to the master branch with a new commit in a merge commit)
 - Checkout: a git command for switching between branches in a repository. An example is: say you make a new branch called newImage: git branch newImage, now wanting to make changes to the newImage branch we must first checkout to this branch and then make our commits. Git checkout newImage; git commit;
 - Push: The push command is used to upload local repository content to a remote repository in other words transfer commits from the local clone to the remote repository. It is the counterpart to git fetch.
+- Pull: the pull command is used to download remote repository content to a local repository. It first runs a fetch command from the specified remote repository and then executes a merge command to merge the remote content into a new local merge commit.
