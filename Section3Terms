@@ -2,4 +2,6 @@
 (ex: on GitHub, click the upper-right corner of the page on the drop-down menu. Select “new repository”, and enter a name of it.)
  - Clone - command line utility which is used to target an existing repository 
 (ex: when working with a repository on GitHub, working on a local machine makes it easier. By cloning the repository, you can work on it on your local machine)
+- Fork – a copy of a repository- allows you to freely experiment with changed without affecting the original project 
+(ex: you can use forks to propose changed related to fixing a bug, rather than logging an issue for a bug you’ve found)
 
