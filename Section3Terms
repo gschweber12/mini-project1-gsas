@@ -4,4 +4,6 @@
 (ex: when working with a repository on GitHub, working on a local machine makes it easier. By cloning the repository, you can work on it on your local machine)
 - Fork – a copy of a repository- allows you to freely experiment with changed without affecting the original project 
 (ex: you can use forks to propose changed related to fixing a bug, rather than logging an issue for a bug you’ve found)
+- Branch - is a parallel version of a repository
+(ex. creating a branch in your project means you’re creating an environment where you can try out new ideas and those changed won’t affect the master branch)
 
