@@ -1,3 +1,5 @@
  - Repository - contains all of the project files and stores each file's revision history 
 (ex: on GitHub, click the upper-right corner of the page on the drop-down menu. Select “new repository”, and enter a name of it.)
+ - Clone - command line utility which is used to target an existing repository 
+(ex: when working with a repository on GitHub, working on a local machine makes it easier. By cloning the repository, you can work on it on your local machine)
 
