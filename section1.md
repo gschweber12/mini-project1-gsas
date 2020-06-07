@@ -1,7 +1,8 @@
-**Section1**
-These topics of git, docker, automated testing, and 
-continuous integration are able to improve the productivity and competitiveness of any company. Through using these methods together, 
-it is possible to accelerate the development process through continuous integration with git. Docker helps lessen the responsibilities of 
-developers by removing the questions about the system that the application will be running on. Automated testing speeds up and expands test coverage of 
-the testing on the various integrations that are produced through continuous integration. Each of these topics is connected to the other and is needed in order to 
-maintain competitiveness in todays world.
+##**Section1**
+ - **git**: is a distributed version control system. Through git it is possible for any user to access every file, branch, and iteration of a project as well as a full and self contained history of all changes.
+ - **docker**: is a tool that is used to create, deploy, and run applications through the use of so-called containers. These containers operate much like virtual machines however there is no need to create a whole virtual operating system. Containers make it so applications need only be shipped with things not already running on the host computers system. This gives a significant performance boost and reduces the size of the application. It is also beneficial to the developers since they can focus on writing the code of the application and don’t have to worry about the system that the application will ultimately be running on.
+ - **automated testing**: is the use of an automation tool to execute testing on a product. This tool can be used to perform these tests much faster than a human and has many advantages such as saving costs, preventing human error, and increase test coverage. 
+ - **continuous integration**: is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. This shared repository can then be used to run testing on each integration. This is where automated testing plays a part in continuous integration.
+
+
+These topics of git, docker, automated testing, and continuous integration are able to improve the productivity and competitiveness of any company. Through using these methods together, it is possible to accelerate the development process through continuous integration  with git. Docker helps lessen the responsibilities of developers by removing the questions about the system that the application will be running on. Automated testing speeds up and expands test coverage of the testing on the various integrations that are produced through continuous integration. Each of these topics is connected to the other and is needed in order to maintain competitiveness in todays world.
